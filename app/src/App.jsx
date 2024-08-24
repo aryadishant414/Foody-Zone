@@ -2,8 +2,7 @@ import { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import SearchResult from './components/SearchResults/SearchResult.jsx';
 
-// export const BASE_URL = "http://localhost:9000";
-export const BASE_URL = "https://foody-zone-backend.vercel.app/";
+export const BASE_URL = "http://localhost:9000";
 
 const App = () => {
 
